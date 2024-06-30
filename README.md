@@ -26,7 +26,6 @@ Hey there! 👋 I'm Diogo Coelho, a passionate web development enthusiast curren
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-%23CB3837.svg?style=for-the-badge&logo=ejs&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
 
