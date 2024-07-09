@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Diogo, a Lisbon-born enthusiast with a deep passion for web development. Through hands-on projects, I've discovered a true love for coding and problem-solving. I excel in challenging environments and constantly seek opportunities to enhance my skills, and to learn more. Eager to drive innovative solutions in web development. Let’s connect.
+Hey there! 👋 I'm Diogo, a Lisbon-born enthusiast with a deep passion for web development. Through hands-on projects, I've discovered a true love for coding and problem-solving. I excel in challenging environments and constantly seek opportunities to enhance my skills, and to learn more. Eager to drive innovative solutions in web development.
 
 
 
