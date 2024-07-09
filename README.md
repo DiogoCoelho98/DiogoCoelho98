@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there! 👋 I'm Diogo Coelho, a passionate web development enthusiast currently immersed in a dynamic bootcamp journey to hone my skills and craft in the ever-evolving world of technology. With a fervent curiosity for all things code-related, I'm constantly exploring and learning new concepts, frameworks, and best practices to push the boundaries of what's possible on the web. From frontend magic with HTML, CSS, and JavaScript to diving into the backend with Node.js, Express, and databases like MongoDB, I'm on a mission to build impactful, user-centric experiences that make a difference. Join me on this exciting journey as I strive to turn ideas into reality, one line of code at a time. Let's connect, collaborate, and create something awesome together!🚀✨
+Hey there! 👋 I'm Diogo, a Lisbon-born enthusiast with a deep passion for web development. Through hands-on projects, I've discovered a true love for coding and problem-solving. I excel in challenging environments and constantly seek opportunities to enhance my skills, and to learn more. Eager to drive innovative solutions in web development. Let’s connect.
+
 
 
 ## 🌐 Socials:
