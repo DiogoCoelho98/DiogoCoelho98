@@ -4,6 +4,7 @@
 - 🐕 Owner of a three-legged pup, Sasha
 - ⚽ Into sports, outdoor adventures, and exploring
 - 🎉 Enjoy a good party from time to time
+- 🤓 Always curious
 
 
 
